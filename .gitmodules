@@ -7,3 +7,6 @@
 [submodule "modules/dxc"]
 	path = modules/dxc
 	url = https://github.com/microsoft/DirectXShaderCompiler
+[submodule "modules/spdlog"]
+	path = modules/spdlog
+	url = https://github.com/gabime/spdlog.git
