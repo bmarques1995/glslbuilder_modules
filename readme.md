@@ -1,1 +1,1 @@
-# HLSLBuilder Dependencies
+# GLSLBuilder Dependencies
